@@ -2,16 +2,8 @@ github.com/GoesToEleven/dog v0.0.0-20230428023317-90bef1c76cb9 h1:WtQjqEAV0EwbFV
 github.com/GoesToEleven/dog v0.0.0-20230428023317-90bef1c76cb9/go.mod h1:bSJZIYrINAWfFsUPONiX6V8GGsCFquPtn5yE6DFvIkE=
 github.com/GoesToEleven/puppy v1.3.0 h1:6kvL9k6x8STNArAn3VVdQAye+5AOM3SbxV0uPdq5xn0=
 github.com/GoesToEleven/puppy v1.3.0/go.mod h1:WobEgPdFB6u5c9xLvtp3KOhVIdHaYYpH6pZVOcLq0+w=
-github.com/hagan/dog v0.0.0-20240503233947-4c0337951175 h1:7VvYPhTD6R7QSO0xvwgYBajTwCYHTFlQbVItqSQASWA=
-github.com/hagan/dog v0.0.0-20240503233947-4c0337951175/go.mod h1:TKWSHadl/NDr41g/bRIcDr8Ers+KMuqwdLboP7izjYY=
-github.com/hagan/dog v0.0.0-20240506001154-08b6b0b2813c h1:gpmIyNVcu2tPMx16/q1LG8tImtuhnIak8M6f8JwvGp0=
-github.com/hagan/dog v0.0.0-20240506001154-08b6b0b2813c/go.mod h1:TKWSHadl/NDr41g/bRIcDr8Ers+KMuqwdLboP7izjYY=
 github.com/hagan/dog v0.0.0-20240506002627-835c5dcd9a5e h1:AolJ71fLF4zUcRdavv10STb0wEd8Gh+H55hhdZXluCQ=
 github.com/hagan/dog v0.0.0-20240506002627-835c5dcd9a5e/go.mod h1:TKWSHadl/NDr41g/bRIcDr8Ers+KMuqwdLboP7izjYY=
-github.com/hagan/puppy v1.0.0 h1:DW35Aol3qWBZEG3PZ17rJ8C4DIPl6otx2eAl4l9F2Cs=
-github.com/hagan/puppy v1.0.0/go.mod h1:Hsq8CRMyETjWEl/5ViXNAlmYZFJ+98YWDl8BHOjoceo=
-github.com/hagan/puppy v1.1.0 h1:RSuuhOEXYQTF2/pVkr7ok+Hh79Xij8Am7hcNQ9HSRaA=
-github.com/hagan/puppy v1.1.0/go.mod h1:Hsq8CRMyETjWEl/5ViXNAlmYZFJ+98YWDl8BHOjoceo=
 github.com/hagan/puppy v1.3.0 h1:b/qx7YuOkkys/N053mPPumSAcn17K/rCd+neinyrwLI=
 github.com/hagan/puppy v1.3.0/go.mod h1:Hsq8CRMyETjWEl/5ViXNAlmYZFJ+98YWDl8BHOjoceo=
 golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1 h1:k/i9J1pBpvlfR+9QsetwPyERsqu1GIbi967PQMq3Ivc=
